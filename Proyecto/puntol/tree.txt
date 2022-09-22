@@ -1,0 +1,7 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es 1DF2-A660
+C:.
+ÀÄÄÄProyecto
+    ÃÄÄÄpunto2
+    ÃÄÄÄpunto3
+    ÀÄÄÄpuntol
